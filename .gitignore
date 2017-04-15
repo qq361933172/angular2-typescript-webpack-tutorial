@@ -2,3 +2,5 @@
 .gitignore
 .idea/
 package.json
+/NiceFish/.idea/
+/node_modules/
